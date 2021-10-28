@@ -1,0 +1,170 @@
+body
+{
+    margin: 0;
+    background-color: #f0f2f5;
+    max-height: 600px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.principal-div
+{
+    padding-top: 72px;
+    padding-bottom: 112px;
+}
+
+.logo-fb
+{
+    padding: 112px 0 16px;
+    display: inline-block;
+    margin: 0 0 0 120px;
+
+}
+
+.slogan
+{
+    font-size: 27px;
+    position: relative;
+    display: inline;
+    left: 10%;
+    top: 26%;
+    margin: 0;
+}
+
+.connection
+{
+    margin: 0 81px;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    bottom: 250px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 12px 28px 0,
+                rgba(0, 0, 0, 0.1) 0 2px 4px 0,
+                rgba(255, 255, 255, 0.05) 0 0 0 1px inset;
+}
+
+.formulary-connection
+{
+    background-color: white;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+#user-email
+{
+    width: 330px;
+    padding: 16px 16px;
+    margin: 0.2em;
+    display: inline-block;
+    border-radius: 7px;
+    border: 1px solid lightgrey;
+}
+
+#password
+{
+    width: 330px;
+    padding: 16px 16px;
+    border: 1px solid lightgrey;
+    margin: 0.6em;
+    display: inline-block;
+    border-radius: 7px;
+}
+
+#connection
+{
+    width: 365px;
+    padding: 11px 0 11px 0;
+    margin: 0.3em;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    border-radius: 7px;
+    background-color: #1877f2;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#forget-password
+{
+    border-bottom: 1px solid lightgrey;
+}
+
+#new-account
+{
+    width: 200px;
+    padding: 10px 0 10px 0;
+    margin: 1.2em;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    border-radius: 7px;
+    background-color: #42b72a;
+    color: white;
+    font-size: 18px;
+}
+
+.para-bottom-formulary
+{
+    display: inline-block;
+    position: relative;
+    bottom: 140px;
+    left: 13%;
+    font-size: 14px;
+}
+
+#bold
+{
+    font-weight: bold;
+}
+
+footer
+{
+    position: relative;
+    bottom: 135px;
+    display: block;
+    padding-top: 20px;
+    font-family: inherit;
+    background-color: white;
+
+}
+
+ul
+{
+    list-style: none;
+    font-size: 12px;
+    color: lightslategrey;
+    display: inline;
+}
+
+li
+{
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+
+.div-foot
+{
+    position: relative;
+    left: 7%;
+    border-bottom: 1px solid #f0f2f5;
+}
+
+.div-foot2
+{
+    position: relative;
+    left: 5%;
+}
+
+.facebook
+{
+    position: relative;
+    left: 7%;
+    font-size: 12px;
+}
